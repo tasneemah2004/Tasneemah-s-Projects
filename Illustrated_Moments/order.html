@@ -1,0 +1,35 @@
+ <html>
+ <head>
+ <body style="background-color:#fce8ef;">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="script.js"></script>
+<h1 id="myHeader">Order</h1>
+
+<div class="box">
+  <form name="Quiz">
+<p> <b> Full name: </b> </p> <input id="name" type="text" placeholder="Type your name" onkeyup="say_hello()">
+ <div class="Question">
+<p class="question"> <b>1. Please upload your picture(s). </b> </p>
+ <input type="file"> 
+</div>
+    <div class="Question">
+<p class="question"> <b> 2. Select which size you would like? </b> </p>
+  <input type="radio" name="question2" value="option1">A6<br>
+  <input type="radio" name="question2" value="option2">A5<br>
+  <input type="radio" name="question2" value="option3">A4<br>
+  
+    <div class="Question">
+<p class="question"> <b> 3. Do you have any specific requirements? </b> </p>
+<input id="name" type="text" onkeyup="say_hello()">
+</div>
+
+<br>
+<button onclick="finishFunction()">Finish</button>
+
+  <a href="index.html">Visit the home page</a>
+</div> 
+
+ </body>
+ </head>
+ </html>

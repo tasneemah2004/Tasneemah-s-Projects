@@ -1,0 +1,55 @@
+.topnav {
+      background-color: #deb0b0;
+      overflow: hidden;
+  padding: 20px;
+      font-size: larger;
+      font-family: Arial;
+    }
+
+h1 {
+      color: white;
+      font-size: 50px;
+      font-family:arial;
+      text-align: center;
+}
+
+h2 {
+      color: #deb0b0;
+      font-size: 40px;
+      font-family:arial;
+      text-align:center;
+}
+
+h3 {
+      color: rgb(210, 136, 152);
+      font-size: 25px;
+      font-family:arial;
+      text-align:center;
+}
+
+p {
+      color: rgb(210, 136, 152);
+      font-size: 28px;
+      font-family:arial;
+      text-align:center;
+}
+
+.highlight {
+  background-color: #f7bbbb;
+  padding: 5px;
+}
+
+#myHeader {
+  background-color: #f7bbbb;
+  color: white;
+  text-align: center;
+}
+
+.box {    
+  margin: auto;
+  width: 100%;;
+  padding: 50px;
+  background-color: #deb0b0;
+  text-align: center;
+
+}

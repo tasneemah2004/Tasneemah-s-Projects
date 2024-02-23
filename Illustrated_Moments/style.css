@@ -1,0 +1,39 @@
+h1 {
+      color: white;
+      font-size: 50px;
+      font-family:cursive;
+      background-color: #f7bbbb; 
+      text-align:center;
+}
+
+h2 {
+      color: white;
+      font-size: 25px;
+      font-family:cursive;
+      background-color: #f7bbbb;
+      text-align:center;
+}
+
+p {
+      color: hotpink;
+      font-size: 28px;
+      font-family:cursive;
+}
+
+.highlight {
+  background-color: #f7bbbb;
+  padding: 5px;
+}
+
+#myHeader {
+  background-color: #f7bbbb;
+  color: white;
+  text-align: center;
+}
+
+.box {  
+  width: 250px;
+  padding: 60px;
+  border: 40px solid yellow;
+ margin: 20px;
+}
